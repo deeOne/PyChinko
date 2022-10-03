@@ -1,5 +1,5 @@
 # **PyChinko**
-'''
+```
 
 A pachinko-style arcade game inspired by games like:
 
@@ -11,10 +11,10 @@ A pachinko-style arcade game inspired by games like:
 
 The goal is to gain enough damage by hitting pegs to defeat
 all of your enemies before they defeat you.
-'''
+```
 
 ## **Features**
-'''
+```
 
 -State System to move between:
 
@@ -37,10 +37,10 @@ all of your enemies before they defeat you.
  -Pegs
  
  -Boundaries 
-'''
+```
 
 # TO DO:
-'''
+```
 
 - [ ] Create a Level Editor to make more interesting maps more quickly #1
 
@@ -53,4 +53,4 @@ all of your enemies before they defeat you.
 - [ ] Add boss battle #5
 
 - [ ] Fix bug where vanished pegs occasionally still collide
-'''
+```
